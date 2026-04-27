@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jobaer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Software+Developer;Problem+Solver;DSA+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2200&pause=700&color=00C2FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Software+Engineer;Problem+Solver+%7C+DSA+Learner;Clean+Code+Enthusiast" />
 </p>
 
 ---
@@ -9,35 +9,35 @@
 🎓 Computer Science & Engineering Student  
 💻 Aspiring Software Developer  
 🧠 Focused on strong fundamentals in Computer Science  
-🚀 Learning by solving real problems and writing clean code  
+🚀 Learning by solving real problems and building logic  
 
 ---
 
-## 🌟 My Vision
+## 🌟 Vision
 
-I want to become a strong software engineer with solid foundations in:
+To become a strong software engineer with solid fundamentals in:
 
 - 📌 Data Structures & Algorithms  
 - 📌 Problem Solving & Logical Thinking  
 - 📌 Object-Oriented Programming  
-- 📌 Writing efficient and maintainable code  
+- 📌 Writing clean, efficient, and maintainable code  
 
-💡 Consistency + curiosity + practice = mastery.
+💡 *Consistency + curiosity + practice = mastery*
 
 ---
 
-## ⚡ What I'm Doing Now
+## ⚡ Current Focus
 
-- 🔭 Practicing programming and problem solving daily  
-- 🌱 Improving DSA step by step  
-- 💡 Building coding logic and efficiency  
-- 🧠 Developing discipline through consistent learning  
+- 🔭 Daily problem solving practice  
+- 🌱 Strengthening DSA step by step  
+- 💡 Improving logic and coding efficiency  
+- 🧠 Building strong coding discipline  
 
 ---
 
 ## 🛠️ Skills
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -52,45 +52,47 @@ I want to become a strong software engineer with solid foundations in:
 
 ---
 
-## 🚀 Project Focus
+## 🚀 Projects Overview
 
-- 🧠 Algorithm practice (Binary Search, Prime check, etc.)  
+- 🧠 Algorithm practice (Binary Search, Prime, Patterns)  
 - 🏗️ C++ OOP systems (Bank, Library Management)  
-- 💻 Problem-solving and logic-building programs  
+- 💻 Problem-solving & logic building exercises  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csejobaer&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=csejobaer&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csejobaer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csejobaer&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/mdjobaer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/csejobaer">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🎯 Future Goal
+## 🎯 Goal
 
-- Build strong software engineering fundamentals  
-- Solve real-world problems with code  
-- Contribute to meaningful software projects  
+- Build strong problem-solving ability  
+- Master core computer science concepts  
+- Become a skilled software engineer  
 
 ---
 
-⭐ *“Small steps every day create big results.”*
+<p align="center">
+⭐ <i>“Small improvements every day create big results.”</i>
+</p>
